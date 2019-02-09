@@ -1,16 +1,16 @@
-# intersight-rest
+# intersight-cli
 
 Interactive CLI for Cisco Intersight
 
 
 ## Business/Technical Challenge
 
-**TODO:** 1-3 paragraphs of the business/technical Challenge
+All good SaaS offerings have an interactive CLI which allows both basic and advanced users to call API's in a much more "human readable" fashion.
 
 ## Proposed Solution
 
 
-**TODO:** 1-3 paragraphs of the solution in written format
+We will create the Intersight CLI using GO and Cobra.
 
 
 ### Cisco Products Technologies/ Services
@@ -19,17 +19,15 @@ Interactive CLI for Cisco Intersight
 
 Our solution will levegerage the following Cisco technologies
 
-* [Application Centric Infrastructure (ACI)](http://cisco.com/go/aci)
-* [DNA Center (DNA-C)](http://cisco.com/go/dna)
+* [Cisco Intersight](http://www.intersight.com/)
 
 ## Team Members
 
 
-**TODO:** ASIC projects must consist of a minimum of 2 SE’s
-representing a minimum of 2 segments. List names here
-
-* team member1 <email> - Segment Name
-* team member2 <email> - Segment Name
+* Matthew Garrett <matgarre@cisco.com> - Commercial Territory
+* Kevin Redmon <kredmon@cisco.com> - Commercial Territory
+* Konrad Reszka <kreszka@cisco.com> - Commercial Territory
+* Kurt Chapman <kchapman@cisco.com> - Public Sector
 
 
 ## Solution Components
